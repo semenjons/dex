@@ -1,0 +1,15 @@
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\pot002\bin\Debug\net6.0\pot002.exe
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\pot002\bin\Debug\net6.0\pot002.deps.json
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\pot002\bin\Debug\net6.0\pot002.runtimeconfig.json
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\pot002\bin\Debug\net6.0\pot002.dll
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\pot002\bin\Debug\net6.0\pot002.pdb
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\pot002\obj\Debug\net6.0\pot002.csproj.AssemblyReference.cache
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\pot002\obj\Debug\net6.0\pot002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\pot002\obj\Debug\net6.0\pot002.AssemblyInfoInputs.cache
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\pot002\obj\Debug\net6.0\pot002.AssemblyInfo.cs
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\pot002\obj\Debug\net6.0\pot002.csproj.CoreCompileInputs.cache
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\pot002\obj\Debug\net6.0\pot002.dll
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\pot002\obj\Debug\net6.0\refint\pot002.dll
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\pot002\obj\Debug\net6.0\pot002.pdb
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\pot002\obj\Debug\net6.0\pot002.genruntimeconfig.cache
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\pot002\obj\Debug\net6.0\ref\pot002.dll
