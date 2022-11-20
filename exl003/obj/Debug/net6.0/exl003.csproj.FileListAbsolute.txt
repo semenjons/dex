@@ -1,0 +1,15 @@
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\exl003\bin\Debug\net6.0\exl003.exe
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\exl003\bin\Debug\net6.0\exl003.deps.json
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\exl003\bin\Debug\net6.0\exl003.runtimeconfig.json
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\exl003\bin\Debug\net6.0\exl003.dll
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\exl003\bin\Debug\net6.0\exl003.pdb
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\exl003\obj\Debug\net6.0\exl003.csproj.AssemblyReference.cache
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\exl003\obj\Debug\net6.0\exl003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\exl003\obj\Debug\net6.0\exl003.AssemblyInfoInputs.cache
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\exl003\obj\Debug\net6.0\exl003.AssemblyInfo.cs
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\exl003\obj\Debug\net6.0\exl003.csproj.CoreCompileInputs.cache
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\exl003\obj\Debug\net6.0\exl003.dll
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\exl003\obj\Debug\net6.0\refint\exl003.dll
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\exl003\obj\Debug\net6.0\exl003.pdb
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\exl003\obj\Debug\net6.0\exl003.genruntimeconfig.cache
+C:\Users\Semen\Desktop\УЧЕБА\тренировка\example\example1\exl003\obj\Debug\net6.0\ref\exl003.dll
